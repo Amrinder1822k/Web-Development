@@ -1,0 +1,27 @@
+body{
+  background-color: #F7F6F2;
+}
+h1{
+  color: #66bfbf;
+}
+h3{
+  color: #66bfbf;
+}
+.hobhr{
+  width: 100%;
+}
+.conhr{
+  width: 100%;
+}
+.thr{
+  width: 100%;
+}
+hr{
+border-width: 5px;
+width: 5%;
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+background-color: inherit;
+
+}
